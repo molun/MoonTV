@@ -65,6 +65,7 @@
     "wujinapi_cc": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "TV-wujinapi无尽",
+      "detail": "",
       "is_adult": false
     },
     "yayazy": {
@@ -88,6 +89,7 @@
     "wolongzy_cc": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "TV-卧龙资源",
+      "detail": "",
       "is_adult": false
     },
     "wolongzyw_com": {
@@ -105,6 +107,7 @@
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
+      "detail": "",
       "is_adult": false
     },
     "xiaomaomi": {
@@ -122,16 +125,19 @@
     "wujinapi_com": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "TV-无尽资源",
+      "detail": "",
       "is_adult": false
     },
     "wujinapi_me": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "TV-无尽资源",
+      "detail": "",
       "is_adult": false
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "TV-无尽资源",
+      "detail": "",
       "is_adult": false
     },
     "wwzy": {
@@ -149,6 +155,7 @@
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "TV-暴风资源",
+      "detail": "",
       "is_adult": false
     },
     "zuidazy": {
@@ -166,11 +173,13 @@
     "apiyhzy": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "TV-樱花资源",
+      "detail": "",
       "is_adult": false
     },
     "yparse": {
       "api": "https://api.yparse.com/api/json",
       "name": "TV-步步高资源",
+      "detail": "",
       "is_adult": false
     },
     "niuniuzy": {
@@ -200,6 +209,7 @@
     "suoniapi": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
+      "detail": "",
       "is_adult": false
     },
     "hongniuzy2": {
@@ -241,11 +251,13 @@
     "subocaiji": {
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "TV-速博资源",
+      "detail": "",
       "is_adult": false
     },
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "TV-量子资源",
+      "detail": "",
       "is_adult": false
     },
     "jinyingzy": {
@@ -420,6 +432,7 @@
     "lbapiby": {
       "api": "http://lbapiby.com/api.php/provide/vod",
       "name": "AV-AIvin",
+      "detail": "",
       "is_adult": true
     },
     "jkunzyapi": {
@@ -437,6 +450,7 @@
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
       "name": "AV-乐播资源",
+      "detail": "",
       "is_adult": true
     },
     "aosikazy": {
@@ -472,6 +486,7 @@
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
       "name": "AV-番号资源",
+      "detail": "",
       "is_adult": true
     },
     "kxgav": {
@@ -509,7 +524,7 @@
       "name": "AV-色猫资源",
       "detail": "https://api.maozyapi.com",
       "is_adult": true
-    },
+    }，
     "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
       "name": "AV-辣椒资源",
@@ -521,13 +536,13 @@
       "name": "AV-香奶儿资源",
       "detail": "https://www.gdlsp.com",
       "is_adult": true
-    }，
+    },
     "shayuapi": {
       "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "AV-鲨鱼资源",
       "detail": "https://shayuapi.com",
       "is_adult": true
-    }，
+    },
     "pgxdy": {
       "api": "https://www.pgxdy.com/api/json.php",
       "name": "AV-黄AV资源",
